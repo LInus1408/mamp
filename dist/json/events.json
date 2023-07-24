@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Doctor Meeting",
+    "year": "2023",
+    "date": "7/18",
+    "begin": ["8","30"],
+    "duration": "30",
+    "color": "red"
+  },
+  {
+    "title": "Team Lunch",
+    "year": "2023",
+    "date": "7/20",
+    "begin": ["12","00"],
+    "duration": "60",
+    "color": "blue"
+  },
+  {
+    "title": "Project Meeting",
+    "year": "2023",
+    "date": "7/22",
+    "begin": ["15","00"],
+    "duration": "120",
+    "color": "green"
+  },
+  {
+    "title": "Conference Call",
+    "year": "2023",
+    "date": "7/25",
+    "begin": ["10","30"],
+    "duration": "45",
+    "color": "orange"
+  },
+  {
+    "title": "Client Visit",
+    "year": "2023",
+    "date": "7/28",
+    "begin": ["14","00"],
+    "duration": "90",
+    "color": "purple"
+  },
+  {
+    "title": "Training Session",
+    "year": "2023",
+    "date": "7/30",
+    "begin": ["9","00"],
+    "duration": "75",
+    "color": "teal"
+  },
+  {
+    "title": "Team Building",
+    "year": "2023",
+    "date": "7/31",
+    "begin": ["11","30"],
+    "duration": "180",
+    "color": "pink"
+  }
+]

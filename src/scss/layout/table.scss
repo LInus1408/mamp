@@ -1,0 +1,47 @@
+.table {
+  border: 1px solid $secondary;
+}
+.tr {
+  height: 50px !important;
+}
+.th,
+.td {
+  border-right: 1px solid $secondary !important;
+  width: 13.78%;
+  font-size: 14px;
+  height: 23px !important;
+}
+.th {
+  text-align: center;
+  height: 23px;
+  margin: 0px !important;
+  padding: 0px !important;
+  vertical-align: middle;
+  font-size: 14px;
+}
+
+
+thead th:first-child,
+tbody td:first-child {
+  width: 3.5%;
+  color: $secondary !important;
+}
+.td {
+  padding: 0px;
+}
+tbody td:first-child {
+  text-align: right;
+  padding: 0px 5px 0px 0px;
+}
+.all-day {
+  height: 46px !important;
+  vertical-align: middle;
+  text-align: center;
+  border-bottom: 3px solid $secondary !important;
+}
+tbody tr:nth-child(even) td {
+  border-bottom: 1px dotted $secondary !important;
+}
+.selected-date {
+  background: #fcfbe3 !important;
+}

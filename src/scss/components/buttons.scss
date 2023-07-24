@@ -1,0 +1,24 @@
+@import "../abstracts/variables.scss";
+
+.btn-switch__time {
+  background-color: $color1;
+  height: 38px;
+  &:hover {
+    background-color: $color1 !important;
+  }
+}
+.today-label {
+  background-color: $color1;
+  width: 100px;
+  height: 38px;
+  &:hover {
+    background-color: $color1 !important;
+  }
+}
+.header__button {
+  background-color: $color1;
+  width: 66px;
+  &:hover {
+    background-color: $color1 !important;
+  }
+}

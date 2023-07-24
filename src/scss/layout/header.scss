@@ -1,0 +1,20 @@
+@import "../components/buttons.scss";
+
+.header {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.header__buttons {
+  margin-left: auto;
+}
+.time-active {
+  background-color: $primary;
+  color: $light !important;
+}
+.time-active:hover {
+  background-color: $primary !important;
+  color: $light !important;
+}
+.btn-arrows {
+  padding-left: 0px;
+}
